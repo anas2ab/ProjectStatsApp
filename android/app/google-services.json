@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090564001768",
+    "firebase_url": "https://shoplink-96bbf.firebaseio.com",
+    "project_id": "shoplink-96bbf",
+    "storage_bucket": "shoplink-96bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090564001768:android:9c04adcee88722053f5e5d",
+        "android_client_info": {
+          "package_name": "com.flynncompanies.shoplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090564001768-qu720le8rvb9qvcifrpp5vn9b524ae98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4p_NBM8PnS8Rc2O3hiMwfPQyouStCFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090564001768-qu720le8rvb9qvcifrpp5vn9b524ae98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
